@@ -1,0 +1,163 @@
+body { 
+background-color: rgb(237, 220, 210) ;
+font-family:'Dancing Script', cursif  ;
+
+}
+
+h1 { 
+color: rgb(240, 239, 235) ;
+font-family:'Dancing Script', cursif  ;
+font-weight: 800 ;
+width: 400px; /*fix the width */ 
+margin: 0 auto; /* Set automatic margins for left & right */
+ }
+
+h2 {
+color: rgb(240, 239, 235) ;
+font-family: 'Open Sans' monospace; ;
+font-weight: 500 ;
+width: 200px; /*fix the width */ 
+margin: 0 auto; /* Set automatic margins for left & right */
+} 
+
+h3 {
+color: rgb(240, 239, 235) ;
+font-family: 'Open Sans' monospace; ;
+font-weight: 500 ;
+width: 100px; /*fix the width */ 
+margin: 0 auto; /* Set automatic margins for left & right */
+} 
+
+
+h4 {
+color: rgb(240, 239, 235) ;
+font-family: 'Open Sans' monospace; ;
+font-weight: 500 ;
+width: 100px; /*fix the width */ 
+margin: 0 auto; /* Set automatic margins for left & right */
+}
+
+
+h5{
+color: rgb(240, 239, 235) ;
+font-family: 'Open Sans' monospace; 
+font-weight: 500 ;
+width: 100px; /*fix the width */ 
+margin: 0 auto; /* Set automatic margins for left & right */
+}
+
+a{
+text-decoration: none ;
+color: black;
+}
+
+#logo { /* select the element with the id="logo" */
+  width: 90px;
+   border-radius: 50%;
+}
+
+#div1 { /* select the element with the id="div1" */
+	background-color: rgb(183, 183, 164) ;
+	padding: 30px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+
+#div2 { /* select the element with the id="div2" */
+	background-color: rgb(183, 183, 164) ;
+	padding: 30px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+
+
+#div3 { /* select the element with the id="div3" */
+	background-color: rgb(183, 183, 164) ;
+	padding: 30px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+
+#div4 { /* select the element with the id="div4" */
+	background-color: rgb(183, 183, 164) ;
+	padding: 30px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+
+#div5 { /* select the element with the id="div5" */
+	background-color: rgb(183, 183, 164) ;
+	padding: 30px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+
+}
+
+#bouton { /* select the element with the id="bouton" */
+  background-color: rgb(240, 239, 235) ;
+	padding: 5px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	width: 700px;
+	margin: 40px auto;
+
+ }
+ 
+ #link { /* select the element with the id="link" */
+list-style: none ;
+padding-left: 260px;
+
+ }
+
+@media (max-width: 760px) {
+#div1{
+	width: 400px;
+}
+
+}
+
+@media (max-width: 760px) {
+#div2{
+	width: 400px;
+}
+
+}
+
+@media (max-width: 760px) {
+#div3{
+	width: 400px;
+}
+
+}
+
+@media (max-width: 760px) {
+#div4{
+	width: 400px;
+}
+
+}
+
+@media (max-width: 760px) {
+#div5{
+	width: 400px;
+}
+
+
